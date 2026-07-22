@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Ailish26/LeetCode/tree/master/0509-fibonacci-number) |
 | [0866-prime-palindrome](https://github.com/Ailish26/LeetCode/tree/master/0866-prime-palindrome) |
 | [1137-n-th-tribonacci-number](https://github.com/Ailish26/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1154-day-of-the-year](https://github.com/Ailish26/LeetCode/tree/master/1154-day-of-the-year) |
 ## String
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Ailish26/LeetCode/tree/master/0709-to-lower-case) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ailish26/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/Ailish26/LeetCode/tree/master/1108-defanging-an-ip-address) |
+| [1154-day-of-the-year](https://github.com/Ailish26/LeetCode/tree/master/1154-day-of-the-year) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ailish26/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sliding Window
 |  |
