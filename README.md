@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ailish26/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Ailish26/LeetCode/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/Ailish26/LeetCode/tree/master/0212-word-search-ii) |
+| [0217-contains-duplicate](https://github.com/Ailish26/LeetCode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ailish26/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Ailish26/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Ailish26/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Ailish26/LeetCode/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Ailish26/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Ailish26/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Ailish26/LeetCode/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/Ailish26/LeetCode/tree/master/0217-contains-duplicate) |
 ## Backtracking
 |  |
 | ------- |
