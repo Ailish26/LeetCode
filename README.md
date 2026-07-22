@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ailish26/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Ailish26/LeetCode/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Ailish26/LeetCode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Ailish26/LeetCode/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Ailish26/LeetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ailish26/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Ailish26/LeetCode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Ailish26/LeetCode/tree/master/0204-count-primes) |
 ## String
 |  |
 | ------- |
@@ -264,4 +266,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Ailish26/LeetCode/tree/master/0197-rising-temperature) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ailish26/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ailish26/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
