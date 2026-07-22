@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Ailish26/LeetCode/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ailish26/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0709-to-lower-case](https://github.com/Ailish26/LeetCode/tree/master/0709-to-lower-case) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ailish26/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ailish26/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sliding Window
 |  |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Ailish26/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Ailish26/LeetCode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Ailish26/LeetCode/tree/master/0179-largest-number) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ailish26/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Trie
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Ailish26/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Ailish26/LeetCode/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/Ailish26/LeetCode/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ailish26/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Ailish26/LeetCode/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ailish26/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Counting Sort
 |  |
 | ------- |
