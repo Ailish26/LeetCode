@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Ailish26/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ailish26/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ailish26/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Ailish26/LeetCode/tree/master/0079-word-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Ailish26/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Ailish26/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Ailish26/LeetCode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/Ailish26/LeetCode/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Ailish26/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Ailish26/LeetCode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Ailish26/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Ailish26/LeetCode/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
@@ -163,8 +166,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ailish26/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ailish26/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Ailish26/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Ailish26/LeetCode/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Ailish26/LeetCode/tree/master/0078-subsets) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Ailish26/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
