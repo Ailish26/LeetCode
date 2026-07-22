@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ailish26/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Ailish26/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ailish26/LeetCode/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/Ailish26/LeetCode/tree/master/0038-count-and-say) |
 ## Sliding Window
 |  |
 | ------- |
