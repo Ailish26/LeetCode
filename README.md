@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Ailish26/LeetCode/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/Ailish26/LeetCode/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Ailish26/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Ailish26/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ailish26/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Hash Table
 |  |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ailish26/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Ailish26/LeetCode/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/Ailish26/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Ailish26/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ailish26/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Ailish26/LeetCode/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/Ailish26/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Ailish26/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
