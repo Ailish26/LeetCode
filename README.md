@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/Ailish26/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/Ailish26/LeetCode/tree/master/0509-fibonacci-number) |
 | [0866-prime-palindrome](https://github.com/Ailish26/LeetCode/tree/master/0866-prime-palindrome) |
+| [1137-n-th-tribonacci-number](https://github.com/Ailish26/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## String
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ailish26/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Ailish26/LeetCode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Ailish26/LeetCode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Ailish26/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Ailish26/LeetCode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Ailish26/LeetCode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Ailish26/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Counting
 |  |
 | ------- |
