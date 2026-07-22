@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Ailish26/LeetCode/tree/master/0087-scramble-string) |
 | [0125-valid-palindrome](https://github.com/Ailish26/LeetCode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Ailish26/LeetCode/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/Ailish26/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ailish26/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ailish26/LeetCode/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Ailish26/LeetCode/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/Ailish26/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
