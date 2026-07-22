@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Ailish26/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Ailish26/LeetCode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Ailish26/LeetCode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Ailish26/LeetCode/tree/master/0139-word-break) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ailish26/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Ailish26/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Ailish26/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Ailish26/LeetCode/tree/master/0139-word-break) |
 ## Math
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Ailish26/LeetCode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Ailish26/LeetCode/tree/master/0087-scramble-string) |
 | [0125-valid-palindrome](https://github.com/Ailish26/LeetCode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Ailish26/LeetCode/tree/master/0139-word-break) |
 ## Sliding Window
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Ailish26/LeetCode/tree/master/0087-scramble-string) |
 | [0120-triangle](https://github.com/Ailish26/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ailish26/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Ailish26/LeetCode/tree/master/0139-word-break) |
 ## Greedy
 |  |
 | ------- |
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ailish26/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Ailish26/LeetCode/tree/master/0139-word-break) |
 ## Sorting
 |  |
 | ------- |
@@ -216,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ailish26/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Ailish26/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
