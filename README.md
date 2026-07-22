@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Ailish26/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1748-sum-of-unique-elements](https://github.com/Ailish26/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1817-finding-the-users-active-minutes](https://github.com/Ailish26/LeetCode/tree/master/1817-finding-the-users-active-minutes) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ailish26/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ailish26/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ailish26/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ailish26/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Ailish26/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1154-day-of-the-year](https://github.com/Ailish26/LeetCode/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/Ailish26/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ailish26/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ailish26/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sliding Window
 |  |
