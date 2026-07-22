@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Ailish26/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Ailish26/LeetCode/tree/master/0136-single-number) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Ailish26/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 ## Depth-First Search
 |  |
 | ------- |
