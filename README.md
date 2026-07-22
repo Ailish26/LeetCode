@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Ailish26/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ailish26/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Ailish26/LeetCode/tree/master/1051-height-checker) |
+| [1207-unique-number-of-occurrences](https://github.com/Ailish26/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ailish26/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Hash Table
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Ailish26/LeetCode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ailish26/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Ailish26/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1207-unique-number-of-occurrences](https://github.com/Ailish26/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 ## Math
 |  |
 | ------- |
