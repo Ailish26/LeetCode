@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Ailish26/LeetCode/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Ailish26/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ailish26/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Ailish26/LeetCode/tree/master/1051-height-checker) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ailish26/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Hash Table
 |  |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Ailish26/LeetCode/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/Ailish26/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ailish26/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Ailish26/LeetCode/tree/master/1051-height-checker) |
 ## Backtracking
 |  |
 | ------- |
@@ -362,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Ailish26/LeetCode/tree/master/0739-daily-temperatures) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Ailish26/LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
