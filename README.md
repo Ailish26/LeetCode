@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Ailish26/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Ailish26/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Ailish26/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Ailish26/LeetCode/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ailish26/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/Ailish26/LeetCode/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
