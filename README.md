@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Ailish26/LeetCode/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/Ailish26/LeetCode/tree/master/0217-contains-duplicate) |
 | [0739-daily-temperatures](https://github.com/Ailish26/LeetCode/tree/master/0739-daily-temperatures) |
+| [0867-transpose-matrix](https://github.com/Ailish26/LeetCode/tree/master/0867-transpose-matrix) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ailish26/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Hash Table
 |  |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Ailish26/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Ailish26/LeetCode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Ailish26/LeetCode/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/Ailish26/LeetCode/tree/master/0867-transpose-matrix) |
 ## Matrix
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Ailish26/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Ailish26/LeetCode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Ailish26/LeetCode/tree/master/0212-word-search-ii) |
+| [0867-transpose-matrix](https://github.com/Ailish26/LeetCode/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
