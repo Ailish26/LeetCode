@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Ailish26/LeetCode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Ailish26/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Ailish26/LeetCode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Ailish26/LeetCode/tree/master/0051-n-queens) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ailish26/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Ailish26/LeetCode/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/Ailish26/LeetCode/tree/master/0051-n-queens) |
 ## Stack
 |  |
 | ------- |
