@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Ailish26/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ailish26/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/Ailish26/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0224-basic-calculator](https://github.com/Ailish26/LeetCode/tree/master/0224-basic-calculator) |
 ## Array
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ailish26/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Ailish26/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Ailish26/LeetCode/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/Ailish26/LeetCode/tree/master/0224-basic-calculator) |
 ## String
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Ailish26/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0212-word-search-ii](https://github.com/Ailish26/LeetCode/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Ailish26/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/Ailish26/LeetCode/tree/master/0224-basic-calculator) |
 ## Sliding Window
 |  |
 | ------- |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ailish26/LeetCode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ailish26/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/Ailish26/LeetCode/tree/master/0224-basic-calculator) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
