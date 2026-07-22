@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Ailish26/LeetCode/tree/master/0412-fizz-buzz) |
 | [0492-construct-the-rectangle](https://github.com/Ailish26/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/Ailish26/LeetCode/tree/master/0509-fibonacci-number) |
+| [0866-prime-palindrome](https://github.com/Ailish26/LeetCode/tree/master/0866-prime-palindrome) |
 ## String
 |  |
 | ------- |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Ailish26/LeetCode/tree/master/0204-count-primes) |
+| [0866-prime-palindrome](https://github.com/Ailish26/LeetCode/tree/master/0866-prime-palindrome) |
 ## Rolling Hash
 |  |
 | ------- |
