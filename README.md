@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ailish26/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Ailish26/LeetCode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Ailish26/LeetCode/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/Ailish26/LeetCode/tree/master/0227-basic-calculator-ii) |
 ## String
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Ailish26/LeetCode/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Ailish26/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Ailish26/LeetCode/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/Ailish26/LeetCode/tree/master/0227-basic-calculator-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ailish26/LeetCode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ailish26/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Ailish26/LeetCode/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/Ailish26/LeetCode/tree/master/0227-basic-calculator-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
