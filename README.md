@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Ailish26/LeetCode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Ailish26/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0212-word-search-ii](https://github.com/Ailish26/LeetCode/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/Ailish26/LeetCode/tree/master/0214-shortest-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -281,4 +282,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Ailish26/LeetCode/tree/master/0204-count-primes) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Ailish26/LeetCode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Ailish26/LeetCode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Ailish26/LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
