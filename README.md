@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Ailish26/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ailish26/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Ailish26/LeetCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/Ailish26/LeetCode/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Ailish26/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/Ailish26/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Ailish26/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Ailish26/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ailish26/LeetCode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ailish26/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1122-relative-sort-array](https://github.com/Ailish26/LeetCode/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Ailish26/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Ailish26/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Ailish26/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Ailish26/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ailish26/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Ailish26/LeetCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/Ailish26/LeetCode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Ailish26/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ailish26/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ailish26/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -417,4 +420,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Ailish26/LeetCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/Ailish26/LeetCode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
