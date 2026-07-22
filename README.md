@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Ailish26/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Ailish26/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Ailish26/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Ailish26/LeetCode/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,10 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Ailish26/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Ailish26/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Ailish26/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Ailish26/LeetCode/tree/master/0055-jump-game) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ailish26/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Ailish26/LeetCode/tree/master/0055-jump-game) |
 ## Trie
 |  |
 | ------- |
