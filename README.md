@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/Ailish26/LeetCode/tree/master/1154-day-of-the-year) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ailish26/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ailish26/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ailish26/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ailish26/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ailish26/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ailish26/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/Ailish26/LeetCode/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/Ailish26/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ailish26/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ailish26/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ailish26/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ailish26/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Ailish26/LeetCode/tree/master/0179-largest-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ailish26/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ailish26/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ailish26/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Trie
 |  |
 | ------- |
