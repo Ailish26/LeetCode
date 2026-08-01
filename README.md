@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Ailish26/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Ailish26/LeetCode/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/Ailish26/LeetCode/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/Ailish26/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Ailish26/LeetCode/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Ailish26/LeetCode/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/Ailish26/LeetCode/tree/master/0217-contains-duplicate) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ailish26/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0486-predict-the-winner](https://github.com/Ailish26/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ailish26/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/Ailish26/LeetCode/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/Ailish26/LeetCode/tree/master/0867-transpose-matrix) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Ailish26/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Ailish26/LeetCode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Ailish26/LeetCode/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/Ailish26/LeetCode/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/Ailish26/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/Ailish26/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ailish26/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ailish26/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Ailish26/LeetCode/tree/master/0139-word-break) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ailish26/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0486-predict-the-winner](https://github.com/Ailish26/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Ailish26/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Ailish26/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ailish26/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -474,5 +478,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ailish26/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Ailish26/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Ailish?theme=light&font=Charmonman)
