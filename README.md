@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Ailish26/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ailish26/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ailish26/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Ailish26/LeetCode/tree/master/0044-wildcard-matching) |
 | [0203-remove-linked-list-elements](https://github.com/Ailish26/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0224-basic-calculator](https://github.com/Ailish26/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Ailish26/LeetCode/tree/master/0231-power-of-two) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ailish26/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Ailish26/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Ailish26/LeetCode/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/Ailish26/LeetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Ailish26/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Ailish26/LeetCode/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Ailish26/LeetCode/tree/master/0079-word-search) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Ailish26/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Ailish26/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ailish26/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Ailish26/LeetCode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Ailish26/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ailish26/LeetCode/tree/master/0055-jump-game) |
 | [0087-scramble-string](https://github.com/Ailish26/LeetCode/tree/master/0087-scramble-string) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ailish26/LeetCode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Ailish26/LeetCode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Ailish26/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Ailish26/LeetCode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Ailish26/LeetCode/tree/master/0179-largest-number) |
