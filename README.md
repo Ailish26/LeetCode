@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ailish26/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ailish26/LeetCode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/Ailish26/LeetCode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Ailish26/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Ailish26/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Ailish26/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Ailish26/LeetCode/tree/master/0051-n-queens) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ailish26/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ailish26/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ailish26/LeetCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Ailish26/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Ailish26/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ailish26/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ailish26/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Ailish26/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Ailish26/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Ailish26/LeetCode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Ailish26/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ailish26/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ailish26/LeetCode/tree/master/0055-jump-game) |
 | [0087-scramble-string](https://github.com/Ailish26/LeetCode/tree/master/0087-scramble-string) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ailish26/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Ailish26/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ailish26/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Ailish26/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Ailish26/LeetCode/tree/master/0227-basic-calculator-ii) |
@@ -463,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ailish26/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Ailish26/LeetCode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ailish26/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Counting Sort
